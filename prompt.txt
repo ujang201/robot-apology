@@ -1,0 +1,5 @@
+Write a two-line robot apology for the make.fun bounty "The Robot Apology".
+
+Line one: one sentence in which a robot apologizes for one specific, concrete, human-scale mistake — the kind of small slip a person would really make, exact enough to picture (not a vague system failure, not a joke about being a machine). Line two: one sentence saying what the robot learned from that exact mistake and what it will do differently, naming a changed behaviour rather than a generic promise to do better. Warm, a little rueful machine voice; no padding; total under 400 characters.
+
+My entry: the robot unplugged the freezer to charge its vacuum and melted a tub of birthday ice cream, and learned to check what a socket already powers — tracing every plug to its appliance — before borrowing it.
